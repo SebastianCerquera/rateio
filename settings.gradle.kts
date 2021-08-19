@@ -1,1 +1,1 @@
-rootProject.name = "chat-kotlin"
+rootProject.name = "billsplitter-be"
